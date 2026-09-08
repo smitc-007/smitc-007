@@ -50,7 +50,7 @@
 const smit = {
   name:       "Smit Chitroda",
   role:       "Full Stack Developer",
-  stack:      ["MERN", "Next.js", "TypeScript", "React Native"],
+  stack:      ["MERN", "Next.js", "TypeScript"],
   building:   "Production-grade SaaS Platform 🏗️",
   learning:   ["System Design", "Keycloak", "DevOps"],
   passion:    "Turning complex problems → elegant solutions",
@@ -105,9 +105,8 @@ while (smit.available) {
 
 <div align="center">
 
-### 🎨 Frontend & Mobile Craft
+### 🎨 Frontend Craft
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -149,15 +148,34 @@ while (smit.available) {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
 
+## 🚀 What I'm Currently Shipping
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🔨 CURRENTLY IN PRODUCTION MODE  🔨                            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+| 🚀 Project | 💬 About | 🛠️ Stack | 📊 Status |
+|:---|:---|:---|:---:|
+| **🏗️ SaaS Platform** | Multi-tenant enterprise SaaS with dynamic role management | React · Node.js · MongoDB · Docker | 🟡 In Progress |
+| **🔐 Auth Engine** | Keycloak-powered SSO with multi-tenant & OAuth 2.0 | Node.js · Keycloak · JWT · Redis | 🟡 In Progress |
+| **⚡ Real-time Collab** | Live collaboration tool powered by WebSockets | React · Socket.io · Express · Redis | 🔵 Planning |
+| **📦 Component Library** | Reusable MERN-ready UI & backend utilities | TypeScript · React · Storybook | 🔵 Ideating |
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<!-- The public instance of github-profile-trophy is currently down (402 Payment Required). 
-     You can either self-host it on Vercel or wait for it to be restored. -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=smitc-007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=smitc-007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -169,13 +187,29 @@ while (smit.available) {
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=smitc-007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=smitc-007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=450" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=smitc-007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=smitc-007&theme=tokyonight&hide_border=true&card_width=450" height="180" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smitc-007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitc-007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=350" height="220" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smitc-007/smitc-007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smitc-007/smitc-007/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/smitc-007/smitc-007/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+> 💡 **Tip:** Fork this repo and set up a [GitHub Actions workflow](https://github.com/Platane/snk) to generate your own snake animation!
 
 </div>
 
